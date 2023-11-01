@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ZHANG Hengxi"
 title_separator          : "-"
-name                     : &name "ZHANG Hengxi"
+name                     : &name "ZHANG Hengxi (张恒溪)"
 description              : &description "personal description"
 url                      : https://Dylan2020THU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "ZHANG Hengxi"
   avatar           : "张恒溪-水木清华-头像-1比1.jpg"
-  bio              : "Interests: Reinforcement learning, game theory, multi-agent system"
-  location         : "Guangdong, China"
+  bio              : "Tsinghua University"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=eoMGpoEAAAAJ&hl=en"
