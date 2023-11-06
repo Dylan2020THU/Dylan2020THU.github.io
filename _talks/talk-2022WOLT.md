@@ -12,4 +12,6 @@ location: "Shenzhen, China"
 
 Presentation Topic: _Communication Routing Selection in SAGI-Net using Heterogeneous Mean-Field Multi-Agent Reinforcement Learning_
 
+![2022WOLT.jpg](/images/2022WOLT.jpg "Talk in the 4th TBSI-WOLT, 2022")
+
 In this presentation, I represent a novel method integrating heterogeneous mean-filed theory in multi-agent reinforcement learning to address the resource allocation problem in space-air-ground-integrated networks.

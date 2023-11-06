@@ -12,4 +12,6 @@ location: "Shenzhen, China"
 
 Presentation Topic: _Deep Reinforcement Learning for Decision Making in Stock Market_
 
+![RISC-V.jpg](/images/RISC-V.jpg "Talk in the 2nd RISC-V, 2021")
+
 In this presentation, I represent a novel method integrating heterogeneous mean-filed theory in multi-agent reinforcement learning to address the resource allocation problem in space-air-ground-integrated networks.

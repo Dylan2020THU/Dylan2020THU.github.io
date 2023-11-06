@@ -12,7 +12,7 @@ location: "Shenzhen, China"
 
 Presentation Topic: _Markov Decision Process based Resource Allocation in V2X Communication Networks with Poisson Traffic_
 
-![RISC-V.jpg](/images/RISC-V.jpg "Talk in the 2nd RISC-V, 2021")
+![2021WOLT.jpg](/images/2021WOLT.jpg "Talk in the 3rd TBSI-WOLT, 2021")
 
 In this work, the sharing of the spectrum and transmission power in vehicular networks is modeled as a resource allocation problem. In summary, the main contribution of this work are as follows:
 1. A Poisson traffic is proposed for testing the efficiency of V2X communication network.

@@ -12,4 +12,5 @@ location: "Shenzhen, China"
 
 Presentation Topic: _Mean-Field Approximation of Multi-Agent Reinforcement Learning for Resource Allocation Problem in Vehicular Networks_
 
+
 In this presentation, we investigate the joint spectrum and power allocation problem for vehicular networks, and proposed a novel mean-field aided multi-agent reinforcement learning method to decrease the computational complexity in solving such combinatorial optimization problems over wireless communication networks.
