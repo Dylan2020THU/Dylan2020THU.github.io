@@ -1,9 +1,10 @@
 ---
-title: "Oral Presentation on ACM UbiComp/ISWC 2023 Adjunct"
+title: "Oral Presentation on 2023 ACM UbiComp/ISWC "
 collection: talks
 type: "Talk"
 permalink: /talks/talk-2022CPD
-venue: "Imperial College of London – City and Guilds Building"
+
+venue: "Cancun Center"
 date: 2023-10-8
 location: "Cancun, Mexico"
 ---
