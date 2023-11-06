@@ -13,8 +13,7 @@ redirect_from:
 
 Bio
 ======
-ZHANG Hengxi received the M.S. degree in data science and information technology from Tsinghua University, China, in
-2023. From 2020 to 2023, he concentrated on the research topic of multi-agent system for task planning under the
+ZHANG Hengxi received the M.S. degree in data science and information technology from Tsinghua University, China, in 2023. From 2020 to 2023, he concentrated on the research topic of multi-agent system for task planning under the
 guidance of Assoc. Prof. [DING Wenbo](https://ssr-group.net/) in [SSR Group](https://ssr-group.net/people.html).
 
 Research Interests
@@ -29,17 +28,18 @@ theory and combinatorial optimization, mainly including:
 
 Awards
 ======
-2023 Excellent Master Thesis Award of Tsinghua University (2 out of 100)
-2023 Excellent Individual Award of SIGS, Tsinghua University (7 out of 5,000)
-2022 1st Level University Scholarship Award of Tsinghua University
-2022 1st Place (Only) in Academic Oral Presentation of the 4th Tsinghua-Berkeley Shenzhen Institute Workshop of Learning
-Theory
-2021 2nd Level School Scholarship Award of SIGS, Tsinghua University
+1. 2023 Excellent Master Thesis Award of Tsinghua University (2 out of 100)
+2. 2023 Excellent Individual Award of SIGS, Tsinghua University (7 out of 5,000)
+3. 2022 1st Level University Scholarship Award of Tsinghua University 
+4. 2022 1st Place (Only) in Academic Oral Presentation of the 4th Tsinghua-Berkeley Shenzhen Institute Workshop of Learning
+Theory 
+5. 2021 2nd Level School Scholarship Award of SIGS, Tsinghua University
 
 
 Services
 ======
-I have been reviewers for the following journals and conferences:
+
+[//]: # (I have been reviewers for the following journals and conferences:)
 
 1. IEEE International Conference on Robotics and Automation (ICRA 2024)
 2. IEEE International Conference on Communications (ICC)
@@ -48,6 +48,5 @@ I have been reviewers for the following journals and conferences:
 
 Academic Membership
 ====
-
 1. Graduate Student Member, IEEE
 2. Member, IEEE Signal Processing Society
