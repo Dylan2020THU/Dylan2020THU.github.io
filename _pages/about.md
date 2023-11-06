@@ -22,7 +22,7 @@ The research fields of mine are in the theories and applications of multi-agent 
 Services
 ======
 I have been reviewers for the following journals and conferences:
-1. IEEE International Conference on Communications (ICC) 
-2. IEEE Transactions on Wireless Communications (TWC)
-3. IEEE Communications Letters
-4. IEEE International Conference on Robotics and Automation (ICRA 2024)
+1. IEEE International Conference on Robotics and Automation (ICRA 2024)
+2. IEEE International Conference on Communications (ICC) 
+3. IEEE Transactions on Wireless Communications (TWC)
+4. IEEE Communications Letters
