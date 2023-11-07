@@ -1,5 +1,5 @@
 ---
-title: "Oral Presentation on The 4th TBSI Workshop on Learning Theory"
+title: "4th TBSI Workshop on Learning Theory, Oral Presentation"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-2022WOLT

@@ -1,5 +1,5 @@
 ---
-title: "Talk on The 2nd RIOS RISC-V Open Source Forum 2021"
+title: "The 2nd RIOS RISC-V Open Source Forum 2021, Oral Presentation"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-2021RISC

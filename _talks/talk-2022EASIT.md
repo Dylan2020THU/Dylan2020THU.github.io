@@ -1,5 +1,5 @@
 ---
-title: "Oral Presentation on IEEE East Asian School of Information Theory 2022"
+title: "IEEE East Asian School of Information Theory 2022, Oral Presentation"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-2022EASIT

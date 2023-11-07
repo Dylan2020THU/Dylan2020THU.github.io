@@ -1,5 +1,5 @@
 ---
-title: "Online Talk on 2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall)"
+title: "2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall), Oral Presentation"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-2022VTC

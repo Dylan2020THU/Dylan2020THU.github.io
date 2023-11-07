@@ -1,5 +1,5 @@
 ---
-title: "Oral Presentation on 2023 ACM UbiComp/ISWC "
+title: "2023 ACM UbiComp/ISWC, Oral Presentation"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-2022CPD
