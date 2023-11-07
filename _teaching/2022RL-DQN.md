@@ -8,7 +8,7 @@ date: 2022-5-20
 location: "Online"
 ---
 
-This is about the hands-on reinforcement learning course.
+A hands-on reinforcement learning course.
 
 Deep Q-Network
 ======
@@ -16,4 +16,4 @@ Click the web link below and start learning!
 
 [Bilibili - 深度强化学习 DQN 纯白板逐行代码Python实现](https://www.bilibili.com/video/BV1hF411L7qu/?spm_id_from=333.337.search-card.all.click)
 
-*Note: this is course is in Chinese, but it won't affect learning how to code DQN.
+*Note: This course is in Chinese, but it won't affect learning how to code DQN.
