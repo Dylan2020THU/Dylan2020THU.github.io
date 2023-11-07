@@ -4,7 +4,6 @@ collection: publications
 
 permalink: /publication/2023XXXXX
 
-[//]: # (excerpt: 'In this paper, we develop a comprehensive SAGIN system that encompasses five distinct communication links and propose an efficient cooperative multi-type multi-agent deep reinforcement learning &#40;CMT-MARL&#41; method to address the resource management issue.')
 date: 2023-10-7
 venue: 'ACM UbiComp/ISWC 2023'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3594739.3612912'
