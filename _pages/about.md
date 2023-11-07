@@ -51,5 +51,8 @@ Academic Membership
 1. Graduate Student Member, IEEE
 2. Member, IEEE Signal Processing Society
 
+# 2D Map
+[//]: # (<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=120&t=n&d=RvPHI8CEJ2Gez9dABHM7Oe0OExxrLamcbwNlCQLPfSA'></script>)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=RvPHI8CEJ2Gez9dABHM7Oe0OExxrLamcbwNlCQLPfSA&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+# 3D globe
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RvPHI8CEJ2Gez9dABHM7Oe0OExxrLamcbwNlCQLPfSA"></script>
