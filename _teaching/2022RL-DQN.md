@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning"
+title: "Reinforcement Learning: Deep Q-Network (DQN)"
 collection: teaching
 type: "Programming Course"
 permalink: /teaching/2022RL-DQN
@@ -8,7 +8,7 @@ date: 2022-5-20
 location: "Online"
 ---
 
-A hands-on reinforcement learning course.
+This is a step-by-step tutorial on how to implement Deep Q-Network (DQN) using Python.
 
 Deep Q-Network
 ======
