@@ -2,7 +2,7 @@
 title: "Reinforcement Learning: Deep Determenistic Policy Gradient (DDPG)"
 collection: teaching
 type: "Programming Course"
-permalink: /teaching/2023RL-DDPG
+permalink: /teaching
 venue: "Bilibili"
 date: 2023-12-26
 location: "Online"
