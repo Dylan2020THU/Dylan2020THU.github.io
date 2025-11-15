@@ -13,8 +13,8 @@ redirect_from:
 
 Bio
 ======
-ZHANG Hengxi received the M.S. degree in data science and information technology from Tsinghua University, China, in 2023. From 2020 to 2023, he concentrated on the research topic of multi-agent system for task planning under the
-guidance of Assoc. Prof. [DING Wenbo](https://ssr-group.net/) in [SSR Group](https://ssr-group.net/people.html).
+ZHANG Hengxi received the M.S. degree in data science and information technology from Tsinghua University, China, in 2023. From 2020 to 2023, he concentrated on the research field of multi-agent system for task planning under the
+guidance of Prof. [DING Wenbo](https://ssr-group.net/) in [SSR Group](https://ssr-group.net/people.html).
 
 Research Interests
 ======
@@ -36,7 +36,7 @@ Theory
 5. 2021 2nd Level School Scholarship Award of SIGS, Tsinghua University
 
 
-Services
+Academic Reviewers
 ======
 
 [//]: # (I have been reviewers for the following journals and conferences:)
