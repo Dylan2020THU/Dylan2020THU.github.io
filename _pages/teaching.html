@@ -7,11 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign-and-sort-by-type posts=site.teaching %}
+{% assign posts = site.teaching | sort: 'date' | reverse %}
+{% assign posts_by_type = posts | group_by: "type" %}
 
-{% for type in posts-by-type %}
-  <h2 class="archive__subtitle">{{ type.name }}</h2>
-  {% for post in type.items %}
+{% for type_group in posts_by_type %}
+  <h2 class="archive__subtitle">{{ type_group.name }}</h2>
+  {% for post in type_group.items %}
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
