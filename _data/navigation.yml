@@ -3,10 +3,10 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
-  - title: "Presentaion"
+  - title: "Presentaions"
     url: /talks/
 
-  - title: "Course"
+  - title: "Courses"
     url: /teaching/
     
 #  - title: "Portfolio"
